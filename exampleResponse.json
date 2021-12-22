@@ -1,0 +1,137 @@
+{
+    "status": "ok",
+    "totalResults": 13,
+    "articles": [
+        {
+            
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": null,
+            "title": "Businessinsider.co.za | This bakery was on the brink of collapse, but orders from Checkers changed everything",
+            "description": "Pie in the Sky was on the brink of collapse, but Checkers saved the day.",
+            "url": "https://www.businessinsider.co.za/bakery-gets-saved-by-checkers-2021-12",
+            "urlToImage": "http://cdn.24.co.za/files/Cms/General/d/103/466bdd87bf6b4929985737d62b74eb5b.jpg",
+            "publishedAt": "2021-12-13T06:23:16+00:00",
+            "content": "<ul><li>When Covid hit, baked goods company Pie in the Sky was on the brink of collapse, but orders from Checkers helped restore operations. </li><li>Before the pandemic, the company's biggest client… [+4668 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Fox News",
+            "title": "Steve Hilton: It should be illegal to do business with China",
+            "description": "'The Next Revolution' host slams companies who do business with U.S. economic rival, China, and says there should be a law to prosecute them under 'economic treason.'",
+            "url": "https://video.foxnews.com/v/6286531726001/",
+            "urlToImage": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68543606-9dc9-43db-be8b-bdc8e31b4571/8ac9f390-d4c4-4c6f-ae1c-a60e0ae9f798/1280x720/match/image.jpg",
+            "publishedAt": "2021-12-13T05:52:18.5042376Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "China’s CPTPP application allays South Korea fears of joining accord",
+            "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+            "url": "https://www.ft.com/content/3bb1ee0e-ae04-4836-88bb-fa5c859992ed",
+            "urlToImage": null,
+            "publishedAt": "2021-12-12T23:37:28.9439347Z",
+            "content": "Journalists in 50+ countries explore developments in global commerce from every perspective.\r\nFor Premium subscribers, we offer our dedicated FT Free Trade newsletter every Tuesday and Thursday."
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "Latest news updates: UK ports on course for worst year since 1983",
+            "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+            "url": "https://www.ft.com/content/5aa670b2-531c-43c4-8a3f-04807f991fa1",
+            "urlToImage": null,
+            "publishedAt": "2021-12-12T23:37:27.8660774Z",
+            "content": "Expert insights, analysis and smart data help you cut through the noise to spot trends,\r\nrisks and opportunities.\r\nJoin over 300,000 Finance professionals who already subscribe to the FT."
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "BRUCE SCHREINER and DYLAN LOVAN / AP",
+            "title": "Crews Search for the Missing After Devastating Tornadoes",
+            "description": "Rescuers in an increasingly bleak search picked through the tornado-splintered ruins of homes and businesses Sunday, including a candle factory that was bustling with night-shift employees when it was flattened, as Kentucky's governor warned the state's death…",
+            "url": "http://time.com/6127779/tornado-kentucky/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2021/12/tornado.jpg?quality=85&w=1200&h=628&crop=1",
+            "publishedAt": "2021-12-12T17:08:11Z",
+            "content": "MAYFIELD, Ky. — Rescuers in an increasingly bleak search picked through the tornado-splintered ruins of homes and businesses Sunday, including a candle factory that was bustling with night-shift empl… [+4118 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-uk",
+                "name": "Google News (UK)"
+            },
+            "author": "Ben Hall",
+            "title": "Ukraine blames Germany for ‘blocking’ Nato weapons supply",
+            "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzEzMzZjOWJlLWYxYzktNDU0NS05Zjg1LTNiMDdmY2I3NDZkNtIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2021-12-12T16:38:47+00:00",
+            "content": "Get local insights from Lisbon to Moscow with an unrivalled network of journalists across Europe,\r\nexpert analysis, our dedicated Brussels Briefing newsletter. Customise your myFT page to track\r\nthe … [+24 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Financial Post",
+            "title": "Business Essentials",
+            "description": "Stay up-to-date with the latest business trends and information on the Canadian economy, stock market and personal finance. Learn to save money, invest in the market, grow your wealth and advance your career with new skills.",
+            "url": "http://business.financialpost.com/category/personal-finance/business-essentials/",
+            "urlToImage": null,
+            "publishedAt": "2021-11-17T17:22:19.8301159Z",
+            "content": "365 Bloor Street East, Toronto, Ontario, M4W 3L4\r\n © 2021 Financial Post, a division of Postmedia Network Inc. All rights reserved. Unauthorized distribution, transmission or republication strictly p… [+9 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Financial Post",
+            "title": "FP Comment",
+            "description": "Read through unique Editorials and Business &amp; Finance columns from our top editors covering current events.",
+            "url": "http://business.financialpost.com/category/opinion/",
+            "urlToImage": null,
+            "publishedAt": "2021-10-25T14:22:51.3470632Z",
+            "content": "365 Bloor Street East, Toronto, Ontario, M4W 3L4\r\n © 2021 Financial Post, a division of Postmedia Network Inc. All rights reserved. Unauthorized distribution, transmission or republication strictly p… [+9 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Financial Post",
+            "title": "Business Essentials",
+            "description": "Stay up-to-date with the latest business trends and information on the Canadian economy, stock market and personal finance. Learn to save money, invest in the market, grow your wealth and advance your career with new skills.",
+            "url": "https://financialpost.com/category/personal-finance/business-essentials/",
+            "urlToImage": null,
+            "publishedAt": "2021-10-25T14:22:31.3051754Z",
+            "content": "365 Bloor Street East, Toronto, Ontario, M4W 3L4\r\n © 2021 Financial Post, a division of Postmedia Network Inc. All rights reserved. Unauthorized distribution, transmission or republication strictly p… [+9 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Financial Post",
+            "title": "News",
+            "description": "Latest breaking business news &amp; headlines. Stay in touch with the latest happenings in Local and International organizations and financial sector.",
+            "url": "http://business.financialpost.com/category/news/",
+            "urlToImage": null,
+            "publishedAt": "2020-07-09T18:37:17.5638279Z",
+            "content": "Visit the Postmedia Brands page\r\n365 Bloor Street East, Toronto, Ontario, M4W 3L4\r\n© 2020 Financial Post, a division of Postmedia Network Inc. All rights reserved. Unauthorized distribution, transmis… [+41 chars]"
+        }
+    ]
+}
